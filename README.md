@@ -1,3 +1,5 @@
+Denton Warnock
+
 # React Router Apple Nav - Stretch Assignment
 
 * Lets build out a navigation app that mimics `Apple's Slick Navigation` from their marketing website. At this point you have all the knowledge you'll need to be able to complete this stretch assignment.
